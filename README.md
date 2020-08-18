@@ -1,1 +1,2 @@
-# laravel-ckeditor
+## Installation
+### Set up package
